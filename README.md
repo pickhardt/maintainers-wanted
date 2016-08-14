@@ -1,10 +1,13 @@
 # Maintainers Wanted
 
+[![Maintainers Wanted](http://www.jeffpickhardt.com/maintainers-wanted)](https://github.com/pickhardt/maintainers-wanted)
+
 This is a collection of projects open to new lead maintainers. The projects may be abandoned, or the maintainer(s) are just looking to move on.
 
 ## Table of Contents
 1. [Project List](#project-list)
 2. [Submitting](#submitting)
+3. [Badge](#badge)
 
 ## Project List
 
@@ -30,3 +33,15 @@ The requirements for accepting are simple:
 3. There must be a way to validate the project is open to new maintainers. That could be an open issue, a notice, it looks like it's been abandoned, or you are the lead yourself.
 
 4. Please only post if the project is looking for a new lead maintainer, suggesting the current maintainer would like to deprioritize or move on. (Most projects are open to new contributors at all times.)
+
+## Badge
+
+Add this badge to your project's readme after submitting to this repo:
+
+[![Maintainers Wanted](http://www.jeffpickhardt.com/maintainers-wanted)](https://github.com/pickhardt/maintainers-wanted)
+
+Copy from Markdown:
+
+```
+[![Maintainers Wanted](http://www.jeffpickhardt.com/maintainers-wanted)](https://github.com/pickhardt/maintainers-wanted)
+```
