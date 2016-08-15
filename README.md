@@ -17,6 +17,9 @@ Friendly English-like interface for your command line.
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine.
 
+#### [Role Requirement](https://github.com/timcharper/role_requirement)
+Ruby on Rails gem for simple role based security for restful_authentication.
+
 #### [securesocial](https://github.com/jaliss/securesocial)
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
