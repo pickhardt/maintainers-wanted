@@ -17,6 +17,9 @@ Friendly English-like interface for your command line.
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine.
 
+#### [Her](https://github.com/remiprev/her/)
+ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
+
 #### [Role Requirement](https://github.com/timcharper/role_requirement)
 Ruby on Rails gem for simple role based security for restful_authentication.
 
