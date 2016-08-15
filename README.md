@@ -1,6 +1,6 @@
 # Maintainers Wanted
 
-[![Maintainers Wanted](http://www.jeffpickhardt.com/maintainers-wanted)](https://github.com/pickhardt/maintainers-wanted)
+[![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
 
 This is a collection of projects open to new lead maintainers. The projects may be abandoned, or the maintainer(s) are just looking to move on.
 
@@ -41,10 +41,12 @@ The requirements for accepting are simple:
 
 Add this badge to your project's readme after submitting to this repo:
 
-[![Maintainers Wanted](http://www.jeffpickhardt.com/maintainers-wanted)](https://github.com/pickhardt/maintainers-wanted)
+[![Maintainers Wanted][https://img.shields.io/badge/maintainers-wanted-red.svg]](https://github.com/pickhardt/maintainers-wanted)
 
 Copy from Markdown:
 
 ```
-[![Maintainers Wanted](http://www.jeffpickhardt.com/maintainers-wanted)](https://github.com/pickhardt/maintainers-wanted)
+[![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
 ```
+
+[badge]: https://img.shields.io/badge/maintainers-wanted-red.svg
