@@ -17,6 +17,9 @@ Friendly English-like interface for your command line.
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine.
 
+#### [Hermes](https://github.com/HermesApp/Hermes)
+Compact OS X Pandora client that doesn't use Flash.
+
 #### [Role Requirement](https://github.com/timcharper/role_requirement)
 Ruby on Rails gem for simple role based security for restful_authentication.
 
