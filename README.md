@@ -23,6 +23,9 @@ ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy
 
+### [python-mode](https://github.com/klen/python-mode)
+Vim plugin to add IDE-like functionality for Python
+
 #### [Role Requirement](https://github.com/timcharper/role_requirement)
 Ruby on Rails gem for simple role based security for restful_authentication.
 
