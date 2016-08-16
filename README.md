@@ -17,6 +17,9 @@ Friendly English-like interface for your command line. Written in Ruby.
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine.
 
+#### [gitx](https://github.com/pieter/gitx)
+GitX is a git GUI made for Mac OS X.
+
 #### [Her](https://github.com/remiprev/her/)
 ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 
