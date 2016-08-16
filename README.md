@@ -56,12 +56,10 @@ The requirements for accepting are simple:
 
 Add this badge to your project's readme after submitting to this repo:
 
-[![Maintainers Wanted][https://img.shields.io/badge/maintainers-wanted-red.svg]](https://github.com/pickhardt/maintainers-wanted)
+[![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
 
 Copy from Markdown:
 
 ```
 [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
 ```
-
-[badge]: https://img.shields.io/badge/maintainers-wanted-red.svg
