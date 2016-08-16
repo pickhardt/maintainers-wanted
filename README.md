@@ -12,7 +12,7 @@ This is a collection of projects open to new lead maintainers. The projects may 
 ## Project List
 
 #### [Betty](https://github.com/pickhardt/betty)
-Friendly English-like interface for your command line.
+Friendly English-like interface for your command line. Written in Ruby.
 
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine.
@@ -24,10 +24,10 @@ ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 Compact OS X Pandora client that doesn't use Flash.
 
 #### [polipo](https://github.com/jech/polipo)
-Caching HTTP proxy
+Caching HTTP proxy. Written in C.
 
-### [python-mode](https://github.com/klen/python-mode)
-Vim plugin to add IDE-like functionality for Python
+#### [python-mode](https://github.com/klen/python-mode)
+Vim plugin to add IDE-like functionality for Python.
 
 #### [redux-falcor](https://github.com/ekosz/redux-falcor)
 A library for connecting a redux front-end to a falcor back-end
