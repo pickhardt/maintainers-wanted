@@ -17,6 +17,9 @@ Friendly English-like interface for your command line.
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine.
 
+#### [Her](https://github.com/remiprev/her/)
+ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
+
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy
 
