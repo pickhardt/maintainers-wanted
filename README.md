@@ -20,6 +20,9 @@ Rails 3 and Rails 4 forum engine.
 #### [Her](https://github.com/remiprev/her/)
 ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 
+#### [Hermes](https://github.com/HermesApp/Hermes)
+Compact OS X Pandora client that doesn't use Flash.
+
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy
 
