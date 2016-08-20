@@ -26,6 +26,9 @@ ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 #### [Hermes](https://github.com/HermesApp/Hermes)
 Compact OS X Pandora client that doesn't use Flash.
 
+#### [Papa Parse](https://github.com/mholt/PapaParse)
+High-performance CSV parser for the browser. Written in JavaScript.
+
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy. Written in C.
 
