@@ -26,6 +26,12 @@ ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 #### [Hermes](https://github.com/HermesApp/Hermes)
 Compact OS X Pandora client that doesn't use Flash.
 
+#### [jQuery Modal](https://github.com/kylefox/jquery-modal)
+The simplest possible modal for jQuery.
+
+#### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort)
+A tiny & dead-simple jQuery plugin for sortable tables
+
 #### [Papa Parse](https://github.com/mholt/PapaParse)
 High-performance CSV parser for the browser. Written in JavaScript.
 
