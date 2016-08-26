@@ -44,6 +44,9 @@ Ruby on Rails gem for simple role based security for restful_authentication.
 #### [securesocial](https://github.com/jaliss/securesocial)
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
+#### [WebcamStudio For GNU/Linux](https://sourceforge.net/projects/webcamstudio/)
+A multifeatured virtual webcam software to broadcast over the Internet.
+
 ## Submitting
 
 Please make a pull request with the project added to this readme.
