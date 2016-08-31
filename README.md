@@ -11,46 +11,46 @@ This is a collection of projects open to new lead maintainers. The projects may 
 
 ## Project List
 
-#### [Betty](https://github.com/pickhardt/betty)
+#### [Betty](https://github.com/pickhardt/betty) [ruby]
 Friendly English-like interface for your command line. Written in Ruby.
 
-#### [forem](https://github.com/rubysherpas/forem)
+#### [forem](https://github.com/rubysherpas/forem) [ruby]
 Rails 3 and Rails 4 forum engine.
 
-#### [gitx](https://github.com/pieter/gitx)
+#### [gitx](https://github.com/pieter/gitx) [objective-c]
 GitX is a git GUI made for Mac OS X.
 
-#### [Her](https://github.com/remiprev/her/)
+#### [Her](https://github.com/remiprev/her/) [ruby]
 ORM (Object Relational Mapper) that maps REST resources to Ruby objects.
 
-#### [Hermes](https://github.com/HermesApp/Hermes)
+#### [Hermes](https://github.com/HermesApp/Hermes) [objective-c]
 Compact OS X Pandora client that doesn't use Flash.
 
-#### [jQuery Modal](https://github.com/kylefox/jquery-modal)
+#### [jQuery Modal](https://github.com/kylefox/jquery-modal) [js]
 The simplest possible modal for jQuery.
 
-#### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort)
+#### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort) [js]
 A tiny & dead-simple jQuery plugin for sortable tables
 
-#### [Papa Parse](https://github.com/mholt/PapaParse)
+#### [Papa Parse](https://github.com/mholt/PapaParse) [js]
 High-performance CSV parser for the browser. Written in JavaScript.
 
-#### [polipo](https://github.com/jech/polipo)
+#### [polipo](https://github.com/jech/polipo) [c language]
 Caching HTTP proxy. Written in C.
 
-#### [python-mode](https://github.com/klen/python-mode)
+#### [python-mode](https://github.com/klen/python-mode) [Python]
 Vim plugin to add IDE-like functionality for Python.
 
-#### [redux-falcor](https://github.com/ekosz/redux-falcor)
-A library for connecting a redux front-end to a falcor back-end
+#### [redux-falcor](https://github.com/ekosz/redux-falcor) [js]
+A library for connecting a redux front-end to a falcor back-en
 
-#### [Role Requirement](https://github.com/timcharper/role_requirement)
+#### [Role Requirement](https://github.com/timcharper/role_requirement) [ruby]
 Ruby on Rails gem for simple role based security for restful_authentication.
 
-#### [securesocial](https://github.com/jaliss/securesocial)
+#### [securesocial](https://github.com/jaliss/securesocial) [scala]
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
-#### [WebcamStudio For GNU/Linux](https://sourceforge.net/projects/webcamstudio/)
+#### [WebcamStudio For GNU/Linux](https://sourceforge.net/projects/webcamstudio/) [java]
 A multifeatured virtual webcam software to broadcast over the Internet.
 
 ## Submitting
