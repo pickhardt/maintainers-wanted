@@ -32,6 +32,9 @@ The simplest possible modal for jQuery. [JS]
 #### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort)
 A tiny & dead-simple jQuery plugin for sortable tables [JS]
 
+#### [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements)
+Extendible AngularJS two-way binding support for Polymer elements and web components
+
 #### [Papa Parse](https://github.com/mholt/PapaParse)
 High-performance CSV parser for the browser. Written in JavaScript. [JS]
 
