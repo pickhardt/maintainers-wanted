@@ -11,6 +11,9 @@ This is a collection of projects open to new lead maintainers. The projects may 
 
 ## Project List
 
+#### [Backup](https://github.com/backup/backup)
+Easy full stack backup operations on UNIX-like systems. [Ruby]
+
 #### [Betty](https://github.com/pickhardt/betty)
 Friendly English-like interface for your command line. Written in Ruby. [Ruby]
 
