@@ -23,9 +23,6 @@ Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
 #### [gitx](https://github.com/pieter/gitx)
 GitX is a git GUI made for Mac OS X. [Objective C]
 
-#### [Her](https://github.com/remiprev/her/)
-ORM (Object Relational Mapper) that maps REST resources to Ruby objects. [Ruby]
-
 #### [Hermes](https://github.com/HermesApp/Hermes)
 Compact OS X Pandora client that doesn't use Flash. [Objective C]
 
