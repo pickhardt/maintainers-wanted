@@ -23,6 +23,9 @@ Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
 #### [gitx](https://github.com/pieter/gitx)
 GitX is a git GUI made for Mac OS X. [Objective C]
 
+#### [grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas)
+Grunt plugin to visualize performance metrics evaluated by Phantomas. [JS]
+
 #### [Hermes](https://github.com/HermesApp/Hermes)
 Compact OS X Pandora client that doesn't use Flash. [Objective C]
 
