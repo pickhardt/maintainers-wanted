@@ -20,6 +20,9 @@ Friendly English-like interface for your command line. Written in Ruby. [Ruby]
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
 
+#### [gitflow](https://github.com/nvie/gitflow)
+Git extensions to provide high-level repository operations for [Vincent Driessen's branching model](http://nvie.com/posts/a-successful-git-branching-model/). [Shell]
+
 #### [gitx](https://github.com/pieter/gitx)
 GitX is a git GUI made for Mac OS X. [Objective C]
 
