@@ -41,9 +41,6 @@ A tiny & dead-simple jQuery plugin for sortable tables [JS]
 #### [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements)
 Extendible AngularJS two-way binding support for Polymer elements and web components
 
-#### [Papa Parse](https://github.com/mholt/PapaParse)
-High-performance CSV parser for the browser. Written in JavaScript. [JS]
-
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy. [C]
 
