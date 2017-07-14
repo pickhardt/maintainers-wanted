@@ -17,6 +17,9 @@ Easy full stack backup operations on UNIX-like systems. [Ruby]
 #### [Betty](https://github.com/pickhardt/betty)
 Friendly English-like interface for your command line. Written in Ruby. [Ruby]
 
+#### [CombinePDF](https://github.com/boazsegev/combine_pdf)
+PDF merging, stamping, numbering and simple editing. Pure Ruby (no dependencies). [Ruby]
+
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
 
