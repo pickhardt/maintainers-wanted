@@ -59,7 +59,7 @@ A module that provides OAuth, OAuth2 and OpenID authentication for Play Framewor
 #### [Slack plugin for Jenkins](https://github.com/jenkinsci/slack-plugin)
 Provides Jenkins notification integration with Slack or Slack compatible applications like RocketChat and Mattermost. [Java]
 
-### [TermFeed](https://github.com/iamaziz/TermFeed)
+#### [TermFeed](https://github.com/iamaziz/TermFeed)
 A simple terminal feed reader. [Python]
 
 #### [Ubic](https://github.com/berekuk/Ubic)
