@@ -56,7 +56,7 @@ Ruby on Rails gem for simple role based security for restful_authentication. [Ru
 #### [securesocial](https://github.com/jaliss/securesocial)
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications. [Scala] [Play]
 
-### [TermFeed](https://github.com/iamaziz/TermFeed)
+#### [TermFeed](https://github.com/iamaziz/TermFeed)
 A simple terminal feed reader. [Python]
 
 #### [Ubic](https://github.com/berekuk/Ubic)
