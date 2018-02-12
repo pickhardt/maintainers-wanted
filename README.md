@@ -47,6 +47,9 @@ The simplest possible modal for jQuery. [JS]
 #### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort)
 A tiny & dead-simple jQuery plugin for sortable tables [JS]
 
+#### [metro-bootstrap](https://github.com/TalksLab/metro-bootstrap)
+Simple Bootstrap with Metro style. [CSS]
+
 #### [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements)
 Extendible AngularJS two-way binding support for Polymer elements and web components
 
