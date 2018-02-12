@@ -53,6 +53,9 @@ Simple Bootstrap with Metro style. [CSS]
 #### [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements)
 Extendible AngularJS two-way binding support for Polymer elements and web components
 
+#### [pickadate](https://github.com/amsul/pickadate.js)
+The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [JS]
+
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy. [C]
 
