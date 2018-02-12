@@ -20,6 +20,12 @@ Friendly English-like interface for your command line. Written in Ruby. [Ruby]
 #### [CombinePDF](https://github.com/boazsegev/combine_pdf)
 PDF merging, stamping, numbering and simple editing. Pure Ruby (no dependencies). [Ruby]
 
+#### [DatabaseCleaner](https://github.com/DatabaseCleaner/database_cleaner)
+Strategies for cleaning databases. Can be used to ensure a clean state for testing. [Ruby]
+
+#### [EmailSpec](https://github.com/email-spec/email-spec/)
+Collection of RSpec/MiniTest matchers and Cucumber steps for testing email in a ruby app using ActionMailer or Pony. [Ruby]
+
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
 
