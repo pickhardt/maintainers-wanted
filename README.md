@@ -41,6 +41,12 @@ Grunt plugin to visualize performance metrics evaluated by Phantomas. [JS]
 #### [Hermes](https://github.com/HermesApp/Hermes)
 Compact OS X Pandora client that doesn't use Flash. [Objective C]
 
+#### [Holy Build Box](https://github.com/phusion/holy-build-box/)
+System for building cross-distribution Linux binaries. [Ruby] 
+
+#### [Juvia](https://github.com/phusion/juvia)
+Open source commenting server similar to Disqus. [Ruby] 
+
 #### [jQuery Modal](https://github.com/kylefox/jquery-modal)
 The simplest possible modal for jQuery. [JS]
 
