@@ -53,6 +53,9 @@ The simplest possible modal for jQuery. [JS]
 #### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort)
 A tiny & dead-simple jQuery plugin for sortable tables [JS]
 
+#### [Mocha](https://github.com/mochajs/mocha)
+simple, flexible, fun javascript test framework for node.js & the browser [JS]
+
 #### [metro-bootstrap](https://github.com/TalksLab/metro-bootstrap)
 Simple Bootstrap with Metro style. [CSS]
 
