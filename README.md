@@ -11,6 +11,9 @@ This is a collection of projects open to new lead maintainers. The projects may 
 
 ## Project List
 
+#### [AxoCover](https://github.com/axodox/AxoCover)
+Nice and free .Net code coverage support for Visual Studio with OpenCover. [C#]
+
 #### [Backup](https://github.com/backup/backup)
 Easy full stack backup operations on UNIX-like systems. [Ruby]
 
