@@ -32,6 +32,9 @@ Collection of RSpec/MiniTest matchers and Cucumber steps for testing email in a 
 #### [forem](https://github.com/rubysherpas/forem)
 Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
 
+#### [FireSharp](https://github.com/ziyasal/FireSharp)
+An asynchronous .Net client library for Firebase. [C#] [Mono]
+
 #### [gitflow](https://github.com/nvie/gitflow)
 Git extensions to provide high-level repository operations for [Vincent Driessen's branching model](http://nvie.com/posts/a-successful-git-branching-model/). [Shell]
 
