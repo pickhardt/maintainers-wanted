@@ -29,9 +29,6 @@ Strategies for cleaning databases. Can be used to ensure a clean state for testi
 #### [EmailSpec](https://github.com/email-spec/email-spec/)
 Collection of RSpec/MiniTest matchers and Cucumber steps for testing email in a ruby app using ActionMailer or Pony. [Ruby]
 
-#### [forem](https://github.com/rubysherpas/forem)
-Rails 3 and Rails 4 forum engine. [Ruby] [Rails]
-
 #### [FireSharp](https://github.com/ziyasal/FireSharp)
 An asynchronous .Net client library for Firebase. [C#] [Mono]
 
