@@ -86,9 +86,6 @@ Ruby on Rails gem for simple role based security for restful_authentication. [Ru
 #### [securesocial](https://github.com/jaliss/securesocial)
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications. [Scala] [Play]
 
-#### [Slack plugin for Jenkins](https://github.com/jenkinsci/slack-plugin)
-Provides Jenkins notification integration with Slack or Slack compatible applications like RocketChat and Mattermost. [Java]
-
 #### [TermFeed](https://github.com/iamaziz/TermFeed)
 A simple terminal feed reader. [Python]
 
