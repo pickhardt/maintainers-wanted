@@ -11,6 +11,9 @@ This is a collection of projects open to new lead maintainers. The projects may 
 
 ## Project List
 
+#### [Angular datatables](https://github.com/l-lin/angular-datatables)
+DataTables using angular directives. [TS]
+
 #### [AxoCover](https://github.com/axodox/AxoCover)
 Nice and free .Net code coverage support for Visual Studio with OpenCover. [C#]
 
