@@ -17,6 +17,9 @@ DataTables using angular directives. [TS]
 #### [AxoCover](https://github.com/axodox/AxoCover)
 Nice and free .Net code coverage support for Visual Studio with OpenCover. [C#]
 
+#### [Babun](https://github.com/babun/babun)
+Babun - a Windows shell you will love! [Shell]
+
 #### [Backup](https://github.com/backup/backup)
 Easy full stack backup operations on UNIX-like systems. [Ruby]
 
