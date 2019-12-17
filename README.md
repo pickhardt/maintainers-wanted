@@ -50,6 +50,9 @@ Compact OS X Pandora client that doesn't use Flash. [Objective C]
 #### [Holy Build Box](https://github.com/phusion/holy-build-box/)
 System for building cross-distribution Linux binaries. [Ruby] 
 
+#### [I hate money](https://github.com/spiral-project/ihatemoney)
+A simple shared budget manager web application similar to Tricount. [Python/Flask] 
+
 #### [Juvia](https://github.com/phusion/juvia)
 Open source commenting server similar to Disqus. [Ruby] 
 
