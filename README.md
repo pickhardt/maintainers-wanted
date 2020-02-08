@@ -71,6 +71,9 @@ The mobile-friendly, responsive, and lightweight jQuery date & time input picker
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy. [C]
 
+### [pygatt](https://github.com/peplin/pygatt/)
+Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for accessing Bluetooth LE Devices [Python]
+
 #### [python-mode](https://github.com/klen/python-mode)
 Vim plugin to add IDE-like functionality for Python. [Python]
 
