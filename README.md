@@ -77,9 +77,6 @@ Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for acc
 #### [python-mode](https://github.com/klen/python-mode)
 Vim plugin to add IDE-like functionality for Python. [Python]
 
-#### [Ransack](https://github.com/activerecord-hackery/ransack)
-Object-based searching. [Ruby] [Rails]
-
 #### [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 Road authoring tool for use with Unity, with splination and intersection generation. [Unity] [C#]
 
