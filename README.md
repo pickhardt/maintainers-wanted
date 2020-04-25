@@ -11,6 +11,9 @@ This is a collection of projects open to new lead maintainers. The projects may 
 
 ## Project List
 
+#### [Angular Tree Component](https://github.com/500tech/angular-tree-component)
+A simple yet powerful tree component for Angular. [TS]
+
 #### [Angular datatables](https://github.com/l-lin/angular-datatables)
 DataTables using angular directives. [TS]
 
