@@ -4,6 +4,8 @@
 
 This is a collection of projects open to new lead maintainers. The projects may be abandoned, or the maintainer(s) are just looking to move on.
 
+If you would like to add your project to the list, submit a pull request!
+
 ## Table of Contents
 1. [Project List](#project-list)
 2. [Submitting](#submitting)
