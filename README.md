@@ -35,6 +35,9 @@ PDF merging, stamping, numbering and simple editing. Pure Ruby (no dependencies)
 #### [DatabaseCleaner](https://github.com/DatabaseCleaner/database_cleaner)
 Strategies for cleaning databases. Can be used to ensure a clean state for testing. [Ruby]
 
+#### [Data Science Stack Cookiecutter](https://github.com/jgoerner/data-science-stack-cookiecutter)
+Cookiecutter to launch an awesome Data Science toolstack in Docker. [Docker] [Shell]
+
 #### [EmailSpec](https://github.com/email-spec/email-spec/)
 Collection of RSpec/MiniTest matchers and Cucumber steps for testing email in a ruby app using ActionMailer or Pony. [Ruby]
 
