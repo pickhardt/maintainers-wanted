@@ -65,6 +65,9 @@ The simplest possible modal for jQuery. [JS]
 #### [jQuery Tablesort](https://github.com/kylefox/jquery-tablesort)
 A tiny & dead-simple jQuery plugin for sortable tables [JS]
 
+#### [JustTestLah!](https://github.com/martinschneider/justtestlah)
+A UI test automation framework for Web and Mobile. [Java]
+
 #### [metro-bootstrap](https://github.com/TalksLab/metro-bootstrap)
 Simple Bootstrap with Metro style. [CSS]
 
