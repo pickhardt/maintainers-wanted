@@ -58,9 +58,6 @@ Compact OS X Pandora client that doesn't use Flash. [Objective C]
 #### [Holy Build Box](https://github.com/phusion/holy-build-box/)
 System for building cross-distribution Linux binaries. [Ruby] 
 
-#### [Juvia](https://github.com/phusion/juvia)
-Open source commenting server similar to Disqus. [Ruby] 
-
 #### [jQuery Modal](https://github.com/kylefox/jquery-modal)
 The simplest possible modal for jQuery. [JS]
 
@@ -71,7 +68,7 @@ A tiny & dead-simple jQuery plugin for sortable tables [JS]
 Simple Bootstrap with Metro style. [CSS]
 
 #### [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements)
-Extendible AngularJS two-way binding support for Polymer elements and web components
+Extendible AngularJS two-way binding support for Polymer elements and web components [JS]
 
 #### [pickadate](https://github.com/amsul/pickadate.js)
 The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [JS]
@@ -79,7 +76,7 @@ The mobile-friendly, responsive, and lightweight jQuery date & time input picker
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy. [C]
 
-### [pygatt](https://github.com/peplin/pygatt/)
+#### [pygatt](https://github.com/peplin/pygatt/)
 Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for accessing Bluetooth LE Devices [Python]
 
 #### [python-mode](https://github.com/klen/python-mode)
@@ -87,9 +84,6 @@ Vim plugin to add IDE-like functionality for Python. [Python]
 
 #### [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 Road authoring tool for use with Unity, with splination and intersection generation. [Unity] [C#]
-
-#### [Role Requirement](https://github.com/timcharper/role_requirement)
-Ruby on Rails gem for simple role based security for restful_authentication. [Ruby] [Rails]
 
 #### [securesocial](https://github.com/jaliss/securesocial)
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications. [Scala] [Play]
