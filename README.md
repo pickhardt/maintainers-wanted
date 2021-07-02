@@ -52,6 +52,9 @@ Git extensions to provide high-level repository operations for [Vincent Driessen
 #### [gitx](https://github.com/pieter/gitx)
 GitX is a git GUI made for Mac OS X. [Objective C]
 
+#### [gpodder.net](https://github.com/gpodder/mygpo)
+The gpodder.net podcast webservice. [Python]
+
 #### [grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas)
 Grunt plugin to visualize performance metrics evaluated by Phantomas. [JS]
 
