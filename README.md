@@ -94,6 +94,9 @@ Vim plugin to add IDE-like functionality for Python. [Python]
 #### [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 Road authoring tool for use with Unity, with splination and intersection generation. [Unity] [C#]
 
+#### [rrule.js](https://github.com/jakubroztocil/rrule)
+rrule.js is a partial port of the rrule module from the excellent python-dateutil library which supports recurrence rules as defined in the iCalendar RFC& parsing and serialization of recurrence rules from and to natural language. [JS]
+
 #### [securesocial](https://github.com/jaliss/securesocial)
 A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications. [Scala] [Play]
 
