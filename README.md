@@ -46,6 +46,9 @@ Collection of RSpec/MiniTest matchers and Cucumber steps for testing email in a 
 #### [FireSharp](https://github.com/ziyasal/FireSharp)
 An asynchronous .Net client library for Firebase. [C#] [Mono]
 
+#### [fsnotify](https://github.com/fsnotify/fsnotify)
+Cross-platform file system notifications for Go. [Go]
+
 #### [gitflow](https://github.com/nvie/gitflow)
 Git extensions to provide high-level repository operations for [Vincent Driessen's branching model](http://nvie.com/posts/a-successful-git-branching-model/). [Shell]
 
