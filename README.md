@@ -55,6 +55,9 @@ Git extensions to provide high-level repository operations for [Vincent Driessen
 #### [gitx](https://github.com/pieter/gitx)
 GitX is a git GUI made for Mac OS X. [Objective C]
 
+#### [gnucash-android](https://github.com/codinguser/gnucash-android)
+A companion expense-tracker android application for GnuCash (desktop). [Java]
+
 #### [gpodder.net](https://github.com/gpodder/mygpo)
 The gpodder.net podcast webservice. [Python]
 
