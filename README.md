@@ -79,6 +79,9 @@ A tiny & dead-simple jQuery plugin for sortable tables [JS]
 #### [JustTestLah!](https://github.com/martinschneider/justtestlah)
 A UI test automation framework for Web and Mobile. [Java]
 
+#### [kazam](https://github.com/hzbd/kazam)
+A simple screen recording program fro Linux. [Python]
+
 #### [metro-bootstrap](https://github.com/TalksLab/metro-bootstrap)
 Simple Bootstrap with Metro style. [CSS]
 
