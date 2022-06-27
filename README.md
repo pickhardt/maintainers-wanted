@@ -100,9 +100,6 @@ Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for acc
 #### [python-mode](https://github.com/klen/python-mode)
 Vim plugin to add IDE-like functionality for Python. [Python]
 
-#### [react-rails](https://github.com/reactjs/react-rails)
-Gem for using React with Rails. [Ruby]
-
 #### [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
 Road authoring tool for use with Unity, with splination and intersection generation. [Unity] [C#]
 
