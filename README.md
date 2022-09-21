@@ -94,6 +94,9 @@ The mobile-friendly, responsive, and lightweight jQuery date & time input picker
 #### [polipo](https://github.com/jech/polipo)
 Caching HTTP proxy. [C]
 
+#### [proxytunnel](https://github.com/proxytunnel/proxytunnel)
+Tool for making tcp-connections over http-proxies. [C]
+
 #### [pygatt](https://github.com/peplin/pygatt/)
 Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for accessing Bluetooth LE Devices [Python]
 
