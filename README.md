@@ -88,6 +88,9 @@ Simple Bootstrap with Metro style. [CSS]
 #### [ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements)
 Extendible AngularJS two-way binding support for Polymer elements and web components [JS]
 
+#### [Objection.js](https://github.com/Vincit/objection.js)
+Objection.js is an ORM for Node.js that aims to stay out of your way and make it as easy as possible to use the full power of SQL and the underlying database engine while still making the common stuff easy and enjoyable. [JS]
+
 #### [pickadate](https://github.com/amsul/pickadate.js)
 The mobile-friendly, responsive, and lightweight jQuery date & time input picker. [JS]
 
