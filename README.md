@@ -106,6 +106,9 @@ Tool for making tcp-connections over http-proxies. [C]
 #### [pygatt](https://github.com/peplin/pygatt/)
 Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for accessing Bluetooth LE Devices [Python]
 
+### [pyowm](https://github.com/csparpa/pyowm)
+A Python wrapper around OpenWeatherMap web APIs
+
 #### [python-mode](https://github.com/klen/python-mode)
 Vim plugin to add IDE-like functionality for Python. [Python]
 
