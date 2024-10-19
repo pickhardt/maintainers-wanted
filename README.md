@@ -13,6 +13,9 @@ If you would like to add your project to the list, submit a pull request!
 
 ## Project List
 
+#### [Asmble](https://github.com/cretz/asmble)
+AWASM > JVM compiler [Kotlin] 
+
 #### [Angular Tree Component](https://github.com/500tech/angular-tree-component)
 A simple yet powerful tree component for Angular. [TS]
 
